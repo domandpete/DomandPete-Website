@@ -1,2 +1,1 @@
-# DomandPete-Website
-Dom and Pete Two pice Ukulele Ensemble
+# Dom and Pete Website
